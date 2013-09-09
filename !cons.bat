@@ -1,4 +1,3 @@
-
 ::動的ライブラリのパスおよび、pkg-configへのパスを設定する
 set PATH=gtk\bin\;%PATH%
 
